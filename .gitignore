@@ -35,3 +35,7 @@ hello-*.tar
 npm-debug.log
 /assets/node_modules/
 
+# Ignore DB cluster info
+postgrescluster.txt
+
+
